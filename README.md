@@ -1,120 +1,151 @@
-### Hi, I'm Razan Alothaim 👋
+# Hi, I'm Razan Alothaim 👋
 
-### Information Technology Graduate | Software Development | Cloud & DevOps | Data & AI
+### Information Technology Graduate | Software Development | Cloud | Data & AI
 
-I'm an Information Technology graduate with hands-on experience in **software development, cloud computing, DevOps, databases, data science, and AI**. I enjoy building practical projects, working with cloud infrastructure, analyzing data, and exploring intelligent technology solutions.
+I'm an Information Technology graduate from **Qassim University (2025)** with hands-on experience in **software development, cloud computing, databases, data science, and machine learning**.
+
+I enjoy building practical solutions, exploring data, working with cloud technologies, and developing applications that solve real-world problems. My experience spans web development, Linux environments, Azure infrastructure, databases, and data-driven projects.
+
+Currently building practical projects and expanding my experience across **software, cloud, data, and AI**.
+
+[LinkedIn](https://www.linkedin.com/in/razan-alothaim) · [GitHub](https://github.com/prog1razan)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
 ### 💻 Programming
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+### 📊 Data & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
 ### 🖥️ Operating Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### 📊 Data & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### ☁️ Azure RAG Chatbot
+### 🤖 Azure RAG Chatbot
 
-A cloud-based chatbot that allows users to upload PDF documents and ask questions using **Retrieval-Augmented Generation (RAG)**.
+**Azure · Terraform · Docker · FastAPI · Streamlit · LangChain · PostgreSQL · ChromaDB**
 
-**Technologies:** Streamlit · FastAPI · LangChain · Docker · PostgreSQL · Azure Blob Storage · Azure Key Vault · ChromaDB · Terraform
+A cloud-based chatbot that allows users to upload PDF documents and ask questions using **Retrieval-Augmented Generation (RAG)**. The project combines application development with Azure infrastructure, containerization, databases, storage, and secure cloud resource management.
 
-🔗 **[View Repository]([https://github.com/prog1razan/Azure-RAG-ChatBot])**
+🔗 **[View Repository](YOUR_AZURE_RAG_CHATBOT_REPO_URL)**
 
 ---
 
 ### 🐳 Portainer on Azure
 
-A cloud infrastructure project for deploying **Portainer on an Azure Linux Virtual Machine** using Docker and Terraform, with network access secured through Azure Network Security Groups.
+**Azure · Docker · Terraform · Portainer · Linux · Bash**
 
-**Technologies:** Microsoft Azure · Linux · Docker · Portainer · Terraform · Bash
+A cloud infrastructure project deploying **Portainer on an Azure Linux Virtual Machine** using Docker and Terraform. The project includes Azure networking and Network Security Groups to control access and provide centralized Docker container management.
 
-🔗 **[View Repository](https://github.com/prog1razan/Portainer-on-azure)**
-
----
-### ⚽ Future Stars
-
-A machine learning project that analyzes football performance data to identify promising players.
-
-**Technologies:** Python · Pandas · Machine Learning
-
-🔗 **[View Repository]([YOUR_FUTURE_STARS_REPO_URL](https://github.com/prog1razan/future_stars))**
+🔗 **[View Repository](YOUR_PORTAINER_REPO_URL)**
 
 ---
 
-## 📌 What I'm Working With
+### ⚽ Future Stars — Football Talent Prediction
 
-* ☁️ Cloud infrastructure with **Microsoft Azure**
-* 🐳 Containerization with **Docker**
-* 🏗️ Infrastructure as Code with **Terraform**
-* 💻 Software development with **Java, Python, and C++**
-* 🗄️ Database development with **SQL and PostgreSQL**
-* 🐧 Linux and Windows environments
-* 🔧 Building practical projects and expanding my technical skills
+**Python · Pandas · NumPy · Machine Learning**
+
+A machine learning project that analyzes football performance data to identify promising players. The project explores how data-driven approaches can support football talent identification and sports technology.
+
+🔗 **[View Repository](YOUR_FUTURE_STARS_REPO_URL)**
 
 ---
 
-## 🔗 Connect With Me
+## 🎓 Education
+
+**B.Sc. in Information Technology**
+Qassim University · Aug 2020 – Jun 2025
+
+---
+
+## 💼 Experience
+
+**Computer Instructor**
+Technical College of Buraidah · Feb 2026 – Aug 2026
+
+Taught courses in **Network Client Administration, Linux Operating Systems, Database Programming (PL/SQL), Advanced Web Technologies, and Networks**.
+
+**Full-Stack Developer — Summer Internship**
+Smart Methods Company · Jun 2024 – Aug 2024
+
+Developed and maintained web applications using **HTML, CSS, JavaScript, PHP, and MySQL**, with experience in dynamic web features, database integration, responsive interfaces, and basic web security. Also contributed to robotics and AI-related projects, including web-based data handling and ROS-based development in Ubuntu.
+
+---
+
+## 📚 Training
+
+**Cloud Computing with Microsoft Azure Bootcamp**
+Saudi Digital Academy × WeCloudData · Aug 2026 – Oct 2026
+
+**Data Science and Machine Learning with Python**
+Tuwaiq Academy · Jun 2026
+
+**Data Science and Artificial Intelligence Bootcamp**
+Saudi Digital Academy × Le Wagon · Aug 2025 – Nov 2025
+
+---
+
+### 📫 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/razan-alothaim">
@@ -124,3 +155,5 @@ A machine learning project that analyzes football performance data to identify p
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+**Open to opportunities in software, cloud, data, AI, and related technical fields.**
