@@ -1,4 +1,4 @@
-#### Hi, I'm Razan Alothaim 👋
+### Hi, I'm Razan Alothaim 👋
 
 ### Information Technology Graduate | Software Development | Cloud & DevOps | Data & AI
 
@@ -50,15 +50,6 @@ I'm an Information Technology graduate with hands-on experience in **software de
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### 🌐 Networking & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Azure%20VMs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VNet-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NSG-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSH-222222?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 ### 📊 Data & Machine Learning
