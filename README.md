@@ -79,7 +79,7 @@ A cloud-based chatbot that allows users to upload PDF documents and ask question
 
 **Technologies:** Streamlit · FastAPI · LangChain · Docker · PostgreSQL · Azure Blob Storage · Azure Key Vault · ChromaDB · Terraform
 
-🔗 **[View Repository](YOUR_AZURE_RAG_CHATBOT_REPO_URL)**
+🔗 **[View Repository]([https://github.com/prog1razan/Azure-RAG-ChatBot])**
 
 ---
 
@@ -89,7 +89,7 @@ A cloud infrastructure project for deploying **Portainer on an Azure Linux Virtu
 
 **Technologies:** Microsoft Azure · Linux · Docker · Portainer · Terraform · Bash
 
-🔗 **[View Repository](YOUR_PORTAINER_REPO_URL)**
+🔗 **[View Repository](https://github.com/prog1razan/Portainer-on-azure)**
 
 ---
 ### ⚽ Future Stars
@@ -98,7 +98,7 @@ A machine learning project that analyzes football performance data to identify p
 
 **Technologies:** Python · Pandas · Machine Learning
 
-🔗 **[View Repository](YOUR_FUTURE_STARS_REPO_URL)**
+🔗 **[View Repository]([YOUR_FUTURE_STARS_REPO_URL](https://github.com/prog1razan/future_stars))**
 
 ---
 
