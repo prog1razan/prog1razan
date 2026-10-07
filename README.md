@@ -87,7 +87,7 @@ Currently building practical projects and expanding my experience across **softw
 
 A cloud-based chatbot that allows users to upload PDF documents and ask questions using **Retrieval-Augmented Generation (RAG)**. The project combines application development with Azure infrastructure, containerization, databases, storage, and secure cloud resource management.
 
-🔗 **[View Repository](YOUR_AZURE_RAG_CHATBOT_REPO_URL)**
+🔗 **[View Repository](https://github.com/prog1razan/Azure-RAG-ChatBot)**
 
 ---
 
@@ -97,7 +97,7 @@ A cloud-based chatbot that allows users to upload PDF documents and ask question
 
 A cloud infrastructure project deploying **Portainer on an Azure Linux Virtual Machine** using Docker and Terraform. The project includes Azure networking and Network Security Groups to control access and provide centralized Docker container management.
 
-🔗 **[View Repository](YOUR_PORTAINER_REPO_URL)**
+🔗 **[View Repository](https://github.com/prog1razan/Portainer-on-azure)**
 
 ---
 
@@ -107,7 +107,7 @@ A cloud infrastructure project deploying **Portainer on an Azure Linux Virtual M
 
 A machine learning project that analyzes football performance data to identify promising players. The project explores how data-driven approaches can support football talent identification and sports technology.
 
-🔗 **[View Repository](YOUR_FUTURE_STARS_REPO_URL)**
+🔗 **[View Repository](https://github.com/prog1razan/future_stars)**
 
 ---
 
