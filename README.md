@@ -4,7 +4,7 @@
 
 ### Curious about how things work, then building them ☁️🤖
 
-I studied IT at **Qassim University** (2025), and nothing teaches me faster than building. I love understanding how systems work, from the cloud to the data behind them. Teaching others keeps me sharp too :)
+I studied IT at **Qassim University** (2025), and nothing teaches me faster than building. I love understanding how systems work, from the cloud to the data behind them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razan-alothaim)
 [![GitHub](https://img.shields.io/badge/GitHub-prog1razan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prog1razan)
